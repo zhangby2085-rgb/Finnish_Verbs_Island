@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">芬兰语动词闯关岛</string>
+
+    <style name="Theme.VerbIsland" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/island_sky</item>
+        <item name="android:statusBarColor">@color/island_sky</item>
+        <item name="android:navigationBarColor">@color/island_sand</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <color name="island_sky">#FFE6F4FC</color>
+    <color name="island_sand">#FFFFF8EC</color>
+</resources>

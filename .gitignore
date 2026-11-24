@@ -1,0 +1,19 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+captures/
+.cxx/
+
+# Python
+__pycache__/
+*.pyc
+
+# Videos and render intermediates live outside the repo (..\演示视频)
+*.mp4
+*.webm
+*.mov
+*.wav

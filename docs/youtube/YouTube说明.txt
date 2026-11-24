@@ -1,0 +1,38 @@
+【标题（可选其一）】
+芬兰语动词闯关岛｜帮在芬兰上学的中文孩子学会动词变位（安卓 App 演示）
+Finnish Verb Island – an Android app that teaches Finnish verb conjugation to Chinese-speaking kids (demo)
+
+【说明】
+一个给在芬兰读小学、母语是中文的孩子用的安卓 App：用 5 个小关卡，循序渐进地练芬兰语现在时动词变位（preesens / persoonataivutus）。
+界面和讲解全是简体中文，每个芬兰语单词和变位都能点开听；完全离线，不用登录，没有广告。
+
+5 关：
+1. 词尾配对小达人 —— 6 个人称词尾，代词和词尾颜色相同
+2. 规则动词大挑战 —— 17 个常用动词
+3. KPT 辅音“变软”魔法 —— 四年级最难的辅音强弱变化，小锤子动画 + 黄金口诀
+4. 吃喝与校园日常 —— 20 个高频动词（syödä、juoda、tulla、olla……）
+5. 状态、需求与否定句 —— en / et / ei + 光杆词干
+另外还有“动词词卡本”：65 个动词的完整变位表（肯定句 / 否定句），每一行都能听。
+
+选错时不会出现红色警报：卡片轻轻晃动，小驯鹿用一句中文讲清楚这个词为什么这样变；答对时手机轻震、星星飞进口袋。
+
+章节：
+0:00 片头
+0:08 岛屿地图
+0:28 第 1 关：词尾配对
+1:12 第 2 关：规则动词
+1:33 第 3 关：KPT 辅音变软
+2:07 第 4 关：吃喝与校园日常
+2:36 第 5 关：否定句
+3:01 动词词卡本
+3:39 芬兰语朗读（没有芬兰语语音的手机也能听）
+3:55 结尾
+
+技术：Kotlin + Jetpack Compose（Material 3），单 Activity，全离线。芬兰语录音用 Piper 语音（fi_FI-harri-medium）生成，手机装了芬兰语系统语音时也可以用系统 TTS。
+视频里的中文旁白用语音合成制作，背景音乐是程序合成的原创小曲。
+
+---
+English
+An offline Android app for Chinese-speaking children at Finnish primary schools. Five short levels take them from the six person endings, through regular verbs and consonant gradation (KPT), to everyday verbs and negative sentences. Every hint is in Chinese, every Finnish form can be heard, and wrong answers get a gentle one-line explanation instead of a red alarm.
+
+#芬兰语 #Suomi #FinnishLanguage #suomenkieli #S2 #JetpackCompose #Android
