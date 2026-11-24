@@ -3,9 +3,19 @@
 给在芬兰读 4 年级、母语是中文的孩子练 **芬兰语现在时动词变位**（preesens / persoonataivutus）。
 Kotlin + Jetpack Compose (Material 3)，单 Activity，全离线，无后端。
 
-- 安装包：[`release/FinnishVerbIsland.apk`](release/FinnishVerbIsland.apk)
+## 演示视频（4 分钟）
+
+[![芬兰语动词闯关岛 演示视频](docs/youtube/thumbnail.png)](https://www.youtube.com/watch?v=YyXyzRU4b2s)
+
+▶ YouTube：<https://www.youtube.com/watch?v=YyXyzRU4b2s>
+
+视频里按顺序演示：岛屿地图 → 第 1–5 关（选错时的中文讲解、KPT 小锤子、否定句）→ 动词词卡本 → 没有芬兰语语音的手机怎么办。
+中文旁白 + 中英文字幕，芬兰语都是 App 自己的朗读。
+
+## 快速开始
+
+- 安装包：[`release/FinnishVerbIsland.apk`](release/FinnishVerbIsland.apk)（Android 7.0 以上，下载到手机后点开安装）
 - 需求原文与改动说明：[`docs/需求.md`](docs/需求.md)
-- 演示视频（不在仓库里，视频文件太大）：`..\演示视频\芬兰语动词闯关岛_演示.mp4`
 
 ## 5 关
 
@@ -80,7 +90,9 @@ family.keyPassword=...
 ..\..\.devenv\Scripts\python.exe tools\prepare_images.py
 ```
 
-## 演示视频
+## 重新制作演示视频
+
+已发布的版本：<https://www.youtube.com/watch?v=YyXyzRU4b2s>（上传用的封面和说明文字在 `docs/youtube/`）。
 
 视频文件不进 git，放在仓库外面的 `..\演示视频\`：
 
